@@ -18,12 +18,10 @@
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="instagram"/></a>
 </div>
 
-
-
-
-
-
-
- 
+##
 
 Atualmente estudando cursos de programaçao na Alura e cursando curso tecnico integrado a ensino médio de desenvolvimento de sistema
+
+##
+
+![snake gif](https://github.com/lupesii/lupesii/blob/output/github-contribution-grid-snake.svg)
