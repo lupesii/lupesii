@@ -2,7 +2,7 @@
 ### Welcome to my Github profile!!
 
 <div>
-  <p>I am a Front-End developer, always looking for new experiences and oportunies to learn and grow. I study in a technical school in the systems development course. I study on the internet courses with many projects, especially in the Front-End area. I mainly use HTML, CSS, JavaScript, C#. Because of my technical school, I know MySQL and relational database. I’m looking for a job in this area</p>
+  <p>I am a Front-End developer, always looking for new experiences and oportunies to learn and grow. I study in a technical school in the systems development course. I study on the internet courses with many projects, especially in the Front-End area. I mainly use HTML, CSS, PHP, JavaScript, C#. Because of my technical school, I know MySQL and relational database. I’m looking for a job in this area</p>
   <img width="40%" src="https://github.com/lupesii/lupesii/assets/51518452/8b049667-171a-4186-9568-a81be0896403" />
 </div>
 
